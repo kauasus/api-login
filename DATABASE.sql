@@ -2,7 +2,7 @@
    BANCO DE DADOS - SISTEMA CLÍNICO
    ====================================================== */
 
-CREATE DATABASE IF NOT EXISTS sistema_login
+CREATE DATABASE sistema_login
 
 
 
